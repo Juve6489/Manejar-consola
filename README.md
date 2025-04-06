@@ -12,4 +12,5 @@ man (llama la descripcion del comnado, se debe escribir por ejemplo man ls)
  git status (muestra los cambios realizados)
  git commit -m (escribir descripcion corta)
  git push (sincronizar los cambios y enviarlos a repositorio)
+ https://sanchezcorbalan.es/mejores-comandos-linux-bash/
  
